@@ -1,6 +1,13 @@
 import numpy as np
 
-$a = aku 
-$b' = kamu
+a = kamu
+b = sayang
+c = kamu
 
-numpy($a+$b) = ga mungkin? hahah
+a + b + c = d
+print d;
+print ('mustahil')
+
+
+
+
